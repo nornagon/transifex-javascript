@@ -44,6 +44,39 @@ Any Boolean circuit can be laid out this way in principle, and an infinite (peri
 start state could unroll an unbounded computation, but neither of those is demonstrated
 here beyond the XOR. Treat the universality claim as an engineering argument, not a proof.
 
+## Unbounded computation from a finite start: not achieved
+
+Follow-up question: can a finite start state compute without bound? That needs either a
+source of new gliders (a gun) or stationary objects that survive being hit (reflectors, so
+gliders can circulate). I looked for both and found neither in smooth Lenia. The only
+positive answer is the trivial one: a Gosper gun runs under the Lenia-form Life rule
+(`gol_in_lenia.py`, +2 gliders per 60 steps), so the *rule family* has finite unbounded
+computers, but those are Life patterns, not Lenia creatures.
+
+What the search turned up, in three single-kernel worlds:
+
+| world (R=13, T=10) | what exists | what a collision does |
+|---|---|---|
+| Orbium, m=0.15 s=0.015 | Orbium glider; a fused double Orbium (mass 143, same speed, found as a collision product); a stationary blob (mass 55) that dies after about 500 steps | 366 two-glider crossings (`products.py`): 0, 1 or 2 gliders out, the fused double, or (3 cases) ignition of a soup that grows without limit. No stable stationary product, no periodic emitter. |
+| "fleet", m=0.337 s=0.057 | six glider species, a still ring (Circium, mass 128), a stationary rotator (Helicium, mass 387), all stable together | Glider at the ring (`wsurvey.py m127`): passes untouched beyond 32 cells offset; at 12 to 30 cells both vanish completely; at 10 cells or less the soup ignites. Glider at the rotator (`wsurvey.py m387`): ignition for almost every hit, four merges into a bigger glider. Nothing reflects. |
+| chain, m about 0.30 s about 0.043 | Catenopteryx increscens: a moving chain of cells that adds cells for ever (`chain_growth.png`; mass 576 to 3458 in 2000 steps, one connected piece) | not tested against gliders |
+
+So unbounded *growth* from a finite seed is easy to get in two forms: runaway soup, and
+the growing chain. Neither is a controllable supply of gliders. The chain is the more
+interesting one, because the zoo's 4- to 10-cell gliders are short pieces of the same
+chain. I scanned (m, s) around it looking for a regime where the growing chain sheds
+pieces, which would make it a glider factory (`chainscan.py`, 135 points coarse plus 61
+points along the grow/explode boundary). Every point either died, stayed a fixed length,
+grew as one piece, or exploded. None shed.
+
+The ring is a usable one-shot memory cell: a glider aimed 12 to 30 cells off-centre is
+destroyed iff the ring is there, and the ring is consumed. I did not find a collision
+that creates a ring.
+
+Not tried: hitting the growing chain with a glider to cut it; three-body collisions;
+multi-kernel or multi-channel Lenia, where emitters have been reported in the literature
+(I only recall this, I did not check it or find any in the cloned repo's pattern files).
+
 ## What I measured
 
 * **Resolution matters a lot.** At the standard R=13, collision outcomes are chaotic:
@@ -91,7 +124,10 @@ here beyond the XOR. Treat the universality claim as an engineering argument, no
 | `hires.py`, `scatter.py` | R=26 scenes; fit outgoing rays of a scatter |
 | `xor_hires.py`, `render.py` | the five-glider XOR and its figure |
 | `scene.py`, `pairmap.py`, `design.py` | R=13 axis-aligned scenes and search-based annihilation circuits |
-| `gol_in_lenia.py` | Life as a Lenia rule |
+| `gol_in_lenia.py` | Life as a Lenia rule, plus a Gosper gun under it |
+| `products.py` | Orbium world: scan collision products |
+| `fleet.py`, `world.py`, `wsurvey.py` | fleet world: extract species, fire gliders at stationary targets (run `fleet.py` first) |
+| `chainscan.py` | parameter scan around the growing chain |
 
 Run: `pip install numpy scipy matplotlib`, then `python3 xor_hires.py` (about a minute on
 4 cores), `python3 design.py` (about 6 minutes), `python3 lab.py 2 180` for the survey.

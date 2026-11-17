@@ -21,3 +21,23 @@ if __name__ == '__main__':
         A, B = lenia_step(A), life_step(B)
         assert np.array_equal(A, B), t
     print('Lenia(R=1, step kernel, step growth, dt=1) == Game of Life for 500 steps on random soup: OK')
+
+
+def gosper_gun(n=200):
+    rle = ("24bo$22bobo$12b2o6b2o12b2o$11bo3bo4b2o12b2o$2o8bo5bo3b2o$2o8bo3bob2o4bobo$"
+           "10bo5bo7bo$11bo3bo$12b2o!")
+    A = np.zeros((n, n)); y = x = 0; num = ''
+    for ch in rle:
+        if ch.isdigit(): num += ch; continue
+        k = int(num or 1); num = ''
+        if ch == 'o': A[5+y, 5+x:5+x+k] = 1; x += k
+        elif ch == 'b': x += k
+        elif ch == '$': y += k; x = 0
+    return A
+
+if __name__ == '__main__':
+    A = gosper_gun(); pops = []
+    for t in range(421):
+        if t % 60 == 0: pops.append(int(A.sum()))
+        A = lenia_step(A)
+    print('Gosper gun under the Lenia update, live cells every 60 steps:', pops, '(+10 = two new gliders per 60 steps)')
