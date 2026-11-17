@@ -1,0 +1,10 @@
+B1 kills A1 at D=60: ..o.ooooo.oooooooo | o..ooooooooooooooo | ...ooo.ooooooooooo -> margin,i,j = (1, 9, 2)
+c kills A1 at D=150: oooooooo......oooo | oooooo.o..oooooooo | oooooooo.ooooooooo -> margin,i,j = (2, 18, 0)
+B2 kills c at D=230: ooo.oooooooooooooo | o.oo.ooooooooooooo | o.oooooooooooooooo -> margin,i,j = (0, 11, 0)
+A2 kills B2 at D=97: o..o.o..o.o.oooooo | o.o.oooo.ooooooooo | oo..ooo.oooooooooo -> margin,i,j = (0, 9, 0)
+out kills c at D=310: .o.ooooooooooooooo | o...ooo.ooo.oooooo | o...oo.ooooooooooo -> margin,i,j = (1, 10, 1)
+{'A1': (0, 0, 0), 'B1': (69, -58, 90), 'c': (168, -150, 90), 'B2': (398, 91, 180), 'A2': (292, 188, 270), 'out': (477, 170, 180)}
+A=0 B=0 -> out=0   remaining blobs (mass,x,y): []
+A=0 B=1 -> out=1   remaining blobs (mass,x,y): [(np.float64(71.9), 77, 170), (np.float64(71.9), 69, 342)]
+A=1 B=0 -> out=1   remaining blobs (mass,x,y): [(np.float64(71.9), 77, 170), (np.float64(71.9), 292, 364)]
+A=1 B=1 -> out=0   remaining blobs (mass,x,y): []
