@@ -73,9 +73,38 @@ The ring is a usable one-shot memory cell: a glider aimed 12 to 30 cells off-cen
 destroyed iff the ring is there, and the ring is consumed. I did not find a collision
 that creates a ring.
 
+### Multi-kernel Lenia: self-replication yes, a gun no
+
+The cloned repo ships about 60 MB of "found" patterns for Chan's extended Lenia (several
+kernels, optionally several channels). `mk.py` is my own implementation of that update
+rule; `mkscan.py` runs each pattern for 2400 steps and flags those whose creature count
+keeps rising while the occupied area stays small. I scanned 348 patterns: all of
+`found/212` (one channel, two kernels; copied here as `found_212.json`) and
+`213, 221, 222, 223, 231, 232, 241, 242` plus part of `243` (`data_mkscan_more.log`).
+Not scanned: the large `231b`, `233*` and the rest of the `24x` to `27x` files.
+
+Result: 27 patterns grow in number. Every one I looked at is a self-replicator, not a gun.
+
+* **Dividing ring** (`found_212.json` index 40, R=20): a stationary ring divides; cells
+  that end up surrounded stop dividing. The colony is an orderly packing of rings whose
+  radius grows linearly, about 0.06 cells/step, 2 cells to 281 in 4200 steps
+  (`colony.py`, `replicator_colony.png`).
+* **Motile replicator** (index 5, R=30): swims, divides and leaves dormant rings that
+  later start moving (`replicator_motile.png`). Count roughly doubles every 400 steps.
+* Six more I rendered (the two patterns named "replicator" in `212`, and `213` 82 and 85,
+  `223` 16, `221` 36) are slow bacteria-like colonies or a pair that divides once and
+  then stays put.
+
+So a finite seed can produce an unbounded number of creatures in smooth Lenia. What is
+still missing is control: a source that emits non-replicating gliders in a fixed
+direction, or a signal that travels through the stationary colony. I found neither.
+The one pattern explicitly named "emit" (`233`, 15 kernels, 3 channels) did not reproduce
+as an emitter: its file gives T=1 for the first kernel and T=10 for the rest; with T=10
+it is a single large cell that slowly grows, with T=1 it explodes.
+
 Not tried: hitting the growing chain with a glider to cut it; three-body collisions;
-multi-kernel or multi-channel Lenia, where emitters have been reported in the literature
-(I only recall this, I did not check it or find any in the cloned repo's pattern files).
+searching (rather than scanning existing patterns) for a gun, for example by
+optimising parameters for "stationary parent, departing child".
 
 ## What I measured
 
@@ -128,6 +157,7 @@ multi-kernel or multi-channel Lenia, where emitters have been reported in the li
 | `products.py` | Orbium world: scan collision products |
 | `fleet.py`, `world.py`, `wsurvey.py` | fleet world: extract species, fire gliders at stationary targets (run `fleet.py` first) |
 | `chainscan.py` | parameter scan around the growing chain |
+| `mk.py`, `mkscan.py`, `montage.py`, `colony.py` | multi-kernel Lenia, scan of found patterns for replication, rendering, colony growth law |
 
 Run: `pip install numpy scipy matplotlib`, then `python3 xor_hires.py` (about a minute on
 4 cores), `python3 design.py` (about 6 minutes), `python3 lab.py 2 180` for the survey.

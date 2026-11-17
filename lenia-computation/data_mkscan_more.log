@@ -1,0 +1,310 @@
+/213.json 0 Found #5|ghost (robust) R 20 n [1, 1, 1, 1, 1, 1, 1] mass [302, 302, 302] area 0.003 
+/213.json 1 Found #5| R 20 n [1, 1, 1, 2, 1, 1, 1] mass [328, 322, 326] area 0.004 
+/213.json 2 Found #5| R 20 n [2, 2, 2, 2, 2, 2, 2] mass [614, 614, 614] area 0.006 
+/213.json 3 | R 15 n [1, 1, 1, 1, 1, 1, 1] mass [175, 172, 172] area 0.002 
+/213.json 4 Found #62| R 20 n [2, 1, 2, 1, 2, 2, 1] mass [325, 330, 333] area 0.003 
+/213.json 5 Found #39|tooth R 18 n [1, 1, 1, 1, 1, 1, 1] mass [184, 191, 185] area 0.002 
+/213.json 6 | R 18 n [1, 1, 1, 1, 1, 1, 1] mass [174, 175, 175] area 0.002 
+/213.json 7 Found #60| R 15 n [1, 1, 1, 1, 1, 1, 1] mass [193, 188, 192] area 0.002 
+/213.json 8 Found #60| R 20 n [1, 1, 1, 1, 2, 1, 1] mass [218, 227, 231] area 0.002 
+/213.json 9 | R 18 n [1, 1, 1, 1, 1, 1, 1] mass [372, 374, 373] area 0.003 
+/213.json 10 Found #3|electric R 16 n [1, 1, 1, 1, 1, 1, 1] mass [140, 139, 138] area 0.001 
+/213.json 11 Found #3| R 20 n [3, 3, 3, 3, 3, 3, 3] mass [654, 655, 653] area 0.007 
+/213.json 12 Found #3| R 20 n [7, 5, 5, 5, 5, 5, 5] mass [1091, 1088, 1089] area 0.012 
+/213.json 13 Found #29| R 20 n [1, 1, 1, 1, 1, 1, 1] mass [295, 297, 280] area 0.003 
+/213.json 14 Found #126| R 20 n [1, 1, 1, 0] mass [174, 174, 0] area 0.0 DEAD
+/213.json 15 |scutus R 19 n [1, 1, 1, 1, 1, 1, 1] mass [190, 204, 188] area 0.002 
+/213.json 16 Found #47| R 22 n [1, 1, 1, 1, 1, 1, 1] mass [331, 335, 337] area 0.003 
+/213.json 17 Found #36|egg R 20 n [8, 1, 5, 0] mass [335, 326, 0] area 0.0 DEAD
+/213.json 18 Found #1| R 18 n [3, 3, 2, 3, 2, 0] mass [393, 431, 0] area 0.0 DEAD
+/213.json 19 Found #2| R 18 n [2, 2, 2, 2, 2, 2, 2] mass [325, 324, 324] area 0.002 
+/213.json 20 Found #8| R 16 n [10, 7, 9, 0] mass [465, 457, 0] area 0.0 DEAD
+/213.json 21 Found #4| R 14 n [1, 1, 1, 1, 2, 1, 1] mass [177, 177, 176] area 0.002 
+/213.json 22 | R 21 n [1, 16, 73, 161, 256, 266, 264] mass [30461, 31585, 31763] area 0.237 GROW
+/213.json 23 Found #11| R 14 n [1, 2, 1, 1, 1, 1, 1] mass [128, 128, 127] area 0.001 
+/213.json 24 Found #33| R 23 n [2, 2, 1, 2, 0] mass [140, 149, 0] area 0.0 DEAD
+/213.json 25 | R 19 n [1, 1, 1, 1, 1, 1, 1] mass [284, 290, 288] area 0.002 
+/213.json 26 Found #52| R 14 n [1, 1, 1, 1, 1, 1, 1] mass [179, 180, 179] area 0.002 
+/213.json 27 Found #73| R 22 n [1, 1, 2, 0] mass [920, 832, 0] area 0.0 DEAD
+/213.json 28 | R 15 n [1, 1, 1, 1, 1, 2, 2] mass [1971, 3548, 5834] area 0.045 
+/213.json 29 | R 20 n [4, 3, 4, 3, 2, 3, 2] mass [527, 546, 537] area 0.004 
+/213.json 30 Found #105| R 34 n [5, 7, 6, 7, 7, 6, 5] mass [295, 295, 296] area 0.002 
+/213.json 31 Found #31| R 22 n [2, 2, 1, 1, 1, 1, 1] mass [542, 528, 520] area 0.004 
+/213.json 32 Found #43| R 20 n [1, 3, 1, 1, 2, 1, 2] mass [298, 285, 290] area 0.002 
+/213.json 33 Found #44| R 20 n [1, 1, 1, 1, 1, 1, 1] mass [213, 214, 213] area 0.002 
+/213.json 34 | R 30 n [1, 1, 1, 1, 1, 1, 1] mass [432, 436, 432] area 0.003 
+/213.json 35 Found #58| R 20 n [1, 0] mass [216, 0] area 0.0 DEAD
+/213.json 36 Found #63| R 20 n [1, 1, 1, 1, 1, 1, 1] mass [447, 445, 445] area 0.004 
+/213.json 37 Found #78| R 20 n [1, 0] mass [273, 0] area 0.0 DEAD
+/213.json 38 Found #83| R 19 n [3, 2, 2, 2, 2, 2, 2] mass [246, 248, 243] area 0.002 
+/213.json 39 Found #100| R 18 n [39, 48, 42, 35, 36, 41, 32] mass [1486, 1551, 1431] area 0.012 
+/213.json 40 | R 15 n [2, 2, 2, 2, 2, 2, 2] mass [251, 251, 252] area 0.002 
+/213.json 41 | R 35 n [1, 1, 1, 1, 1, 1, 1] mass [721, 784, 829] area 0.007 
+/213.json 42 Found #117| R 19 n [1, 1, 2, 1, 2, 3, 3] mass [278, 277, 278] area 0.002 
+/213.json 43 Found #121| R 23 n [1, 1, 2, 1, 1, 1, 1] mass [269, 268, 264] area 0.002 
+/213.json 44 Found #130| R 26 n [1, 1, 1, 1, 0] mass [269, 252, 0] area 0.0 DEAD
+/213.json 45 | R 20 n [2, 3, 2, 3, 3, 2, 1] mass [255, 228, 238] area 0.003 
+/213.json 46 Found #139| R 20 n [1, 0] mass [425, 0] area 0.0 DEAD
+/213.json 47 | R 11 n [3, 5, 5, 4, 3, 5, 3] mass [585, 578, 583] area 0.004 
+/213.json 48 | R 22 n [1, 1, 1, 1, 1, 1, 1] mass [352, 315, 317] area 0.002 
+/213.json 49 Found #156| R 27 n [2, 1, 1, 1, 3, 1, 1] mass [434, 429, 433] area 0.004 
+/213.json 50 Found #157| R 20 n [1, 3, 2, 1, 2, 3, 2] mass [442, 442, 442] area 0.004 
+/213.json 51 Found #158| R 20 n [1, 1, 1, 1, 1, 1, 1] mass [236, 237, 236] area 0.002 
+/213.json 52 Found #17| R 20 n [2, 2, 2, 2, 2, 2, 2] mass [902, 905, 911] area 0.006 
+/213.json 53 Found #18| R 15 n [11, 12, 11, 11, 13, 9, 12] mass [433, 431, 434] area 0.003 
+/213.json 54 Found #26| R 20 n [1, 2, 1, 1, 2, 2, 2] mass [218, 220, 221] area 0.002 
+/213.json 55 | R 16 n [1, 0] mass [192, 0] area 0.0 DEAD
+/213.json 56 | R 20 n [7, 5, 5, 6, 0] mass [1327, 1332, 0] area 0.0 DEAD
+/213.json 57 Found #67| R 20 n [1, 3, 3, 1, 2, 3, 1] mass [320, 318, 318] area 0.002 
+/213.json 58 Found #81|fish R 15 n [1, 1, 1, 1, 1, 1, 1] mass [243, 243, 244] area 0.003 
+/213.json 59 Found #82| R 15 n [3, 7, 4, 2, 6, 3, 4] mass [220, 233, 229] area 0.002 
+/213.json 60 Found #84| R 15 n [3, 9, 18, 24, 135, 308, 590] mass [3862, 7298, 13533] area 0.126 GROW
+/213.json 61 Found #90| R 15 n [1, 1, 1, 2, 2, 2, 1] mass [204, 192, 183] area 0.002 
+/213.json 62 Found #91| R 15 n [3, 1, 1, 3, 3, 2, 1] mass [236, 205, 227] area 0.002 
+/213.json 63 Found #95| R 15 n [1, 1, 1, 1, 1, 1, 1] mass [226, 227, 226] area 0.003 
+/213.json 64 Found #128| R 15 n [2, 2, 2, 3, 4, 1, 5] mass [259, 235, 252] area 0.003 GROW
+/213.json 65 Found #131| R 15 n [2, 0] mass [230, 0] area 0.0 DEAD
+/213.json 66 Found #87|tooth R 15 n [2, 2, 2, 4, 2, 3, 2] mass [230, 227, 233] area 0.003 
+/213.json 67 Found #96| R 15 n [2, 0] mass [239, 0] area 0.0 DEAD
+/213.json 68 Found #129| R 15 n [1, 1, 1, 1, 1, 1, 1] mass [212, 214, 213] area 0.002 
+/213.json 69 Found #143| R 15 n [1, 1, 1, 1, 1, 1, 1] mass [221, 219, 216] area 0.002 
+/213.json 70 Found #131| R 15 n [1, 2, 1, 1, 1, 2, 1] mass [238, 240, 237] area 0.003 
+/213.json 71 Found #136| R 15 n [3, 3, 2, 1, 2, 3, 2] mass [248, 249, 251] area 0.003 
+/213.json 72 Found #105|scuta R 15 n [1, 1, 2, 2, 1, 1, 2] mass [248, 248, 247] area 0.002 
+/213.json 73 Found #117| R 15 n [1, 1, 1, 1, 1, 1, 1] mass [235, 236, 235] area 0.002 
+/213.json 74 Found #141| R 15 n [1, 1, 1, 1, 1, 1, 1] mass [187, 187, 187] area 0.002 
+/213.json 75 Found #142|ghost R 15 n [1, 2, 1, 1, 4, 2, 2] mass [202, 208, 206] area 0.002 
+/213.json 76 Found #142| R 15 n [6, 5, 5, 4, 5, 4, 7] mass [404, 408, 405] area 0.004 
+/213.json 77 Found #143| R 15 n [1, 1, 1, 1, 1, 1, 2] mass [224, 215, 220] area 0.002 
+/213.json 78 Found #80|others R 15 n [1, 1, 2, 1, 1, 1, 2] mass [233, 198, 244] area 0.003 
+/213.json 79 Found #99| R 15 n [2, 2, 2, 2, 2, 4, 1] mass [175, 172, 186] area 0.002 
+/213.json 80 Found #100| R 15 n [1, 1, 1, 1, 3, 4, 3] mass [202, 196, 203] area 0.002 
+/213.json 81 Found #144| R 15 n [1, 2, 2, 2, 1, 1, 1] mass [200, 200, 192] area 0.002 
+/213.json 82 Found #92|division too slow R 15 n [4, 5, 10, 4, 13, 9, 11] mass [462, 456, 460] area 0.004 GROW
+/213.json 83 Found #134|division uncontro R 15 n [13, 45, 169, 318, 577, 940, 1079] mass [18444, 24901, 28457] area 0.232 GROW
+/213.json 84 Found #94|division well R 15 n [2, 2, 2, 4, 4, 5, 3] mass [211, 222, 229] area 0.002 
+/213.json 85 Found #138| R 15 n [2, 2, 3, 6, 9, 16, 14] mass [991, 1200, 1788] area 0.018 GROW
+/213.json 86 Found #86|rotating R 15 n [1, 1, 1, 0] mass [192, 166, 0] area 0.0 DEAD
+/213.json 87 Found #139|stationary R 15 n [9, 11, 12, 9, 6, 5, 5] mass [252, 248, 255] area 0.002 
+/221.json 0 |corona R 38 n [1, 1, 1, 1, 1, 1, 1] mass [1333, 1352, 1324] area 0.007 
+/221.json 1 | R 38 n [1, 2, 1, 1, 1, 1, 1] mass [1350, 1421, 1357] area 0.008 
+/221.json 2 | R 38 n [2, 2, 1, 2, 1, 1, 1] mass [1313, 1386, 1247] area 0.008 
+/221.json 3 | R 38 n [1, 0] mass [1314, 0] area 0.0 DEAD
+/221.json 4 | R 38 n [1, 1, 1, 1, 1, 1, 1] mass [1497, 1226, 1281] area 0.008 
+/221.json 5 | R 38 n [2, 1, 2, 2, 1, 2, 1] mass [1480, 1530, 1502] area 0.009 
+/221.json 6 | R 38 n [1, 1, 42] mass [1714, 6921, 59552] area 0.653 FILL
+/221.json 7 Found #5| R 35 n [1, 1, 1, 1, 1, 1, 1] mass [1179, 1171, 1127] area 0.006 
+/221.json 8 Found #13| R 35 n [1, 2, 3, 1, 1, 1, 1] mass [1265, 1288, 1341] area 0.01 
+/221.json 9 |stable moving R 38 n [1, 1, 1, 1, 1, 1, 1] mass [1468, 1505, 1572] area 0.011 
+/221.json 10 | R 35 n [1, 2, 2, 2, 2, 1, 2] mass [1565, 1653, 1677] area 0.013 
+/221.json 11 Found #25| R 35 n [1, 1, 1, 1, 1, 1, 1] mass [1071, 1072, 1072] area 0.008 
+/221.json 12 Found #26| R 35 n [1, 1, 1, 1, 1, 1, 1] mass [998, 997, 997] area 0.008 
+/221.json 13 Found #27| R 35 n [1, 1, 2, 1, 1, 1, 1] mass [921, 971, 897] area 0.007 
+/221.json 14 |stable rotating R 38 n [1, 1, 1, 1, 1, 1, 1] mass [1698, 1700, 1700] area 0.011 
+/221.json 15 Found #24| R 35 n [1, 1, 1, 1, 1, 1, 1] mass [1188, 1162, 1160] area 0.009 
+/221.json 16 |stable stationary R 35 n [3, 1, 1, 1, 1, 1, 1] mass [1335, 1302, 1333] area 0.01 
+/221.json 17 Found #23| R 35 n [1, 1, 1, 0] mass [1223, 1125, 0] area 0.0 DEAD
+/221.json 18 Found #29| R 35 n [4, 4, 5, 5, 4, 4, 4] mass [1253, 1254, 1251] area 0.008 
+/221.json 19 Found #30| R 26 n [2, 3, 3, 2, 4, 2, 3] mass [2079, 2106, 2112] area 0.013 
+/221.json 20 Found #44| R 20 n [1, 1, 1, 1, 1, 1, 1] mass [1146, 1143, 1147] area 0.008 
+/221.json 21 Found #50|stable alternating R 20 n [5, 11, 7, 9, 7, 8, 8] mass [885, 828, 837] area 0.006 
+/221.json 22 |fast smear R 38 n [1, 1, 1, 1, 1, 1, 1] mass [1933, 1937, 1976] area 0.015 
+/221.json 23 Found #2| R 35 n [1, 1, 1, 1, 1, 1, 1] mass [1311, 1118, 981] area 0.008 
+/221.json 24 Found #54| R 35 n [1, 1, 1, 1, 1, 1, 1] mass [1616, 1626, 1818] area 0.014 
+/221.json 25 Found #14|double pattern R 35 n [3, 2, 5, 5, 4, 17, 29] mass [3946, 6577, 9632] area 0.066 GROW
+/221.json 26 Found #2| R 20 n [3, 6, 5, 3, 7, 3, 3] mass [1135, 1053, 1163] area 0.008 
+/221.json 27 Found #47| R 20 n [1, 1, 1, 1, 1, 1, 1] mass [2048, 2117, 2142] area 0.014 
+/221.json 28 Found #31| R 20 n [1, 1, 1, 1, 1, 1, 1] mass [545, 591, 522] area 0.004 
+/221.json 29 Found #32| R 21 n [1, 1, 1, 0] mass [818, 1151, 0] area 0.0 DEAD
+/221.json 30 Found #35| R 20 n [5, 7, 6, 4, 4, 7, 8] mass [1954, 1746, 1688] area 0.012 
+/221.json 31 Found #9|with nucleus R 35 n [5, 4, 5, 3, 3, 4, 6] mass [2289, 2533, 2362] area 0.017 
+/221.json 32 Found #31| R 25 n [4, 5, 5, 6, 6, 6, 6] mass [722, 721, 721] area 0.005 
+/221.json 33 Found #33| R 25 n [3, 1, 3, 2, 2, 2, 2] mass [887, 825, 864] area 0.007 
+/221.json 34 Found #27| R 17 n [1, 1, 1, 1, 1, 1, 1] mass [599, 601, 593] area 0.004 
+/221.json 35 Found #34|with nucleus, indi R 25 n [1, 2, 3, 4, 4, 3, 5] mass [2184, 2203, 2832] area 0.022 GROW
+/221.json 36 Found #55| R 15 n [2, 3, 4, 3, 13, 10, 10] mass [1761, 2203, 2230] area 0.017 GROW
+/221.json 37 Found #41|build vessel R 25 n [1, 2, 7, 21, 25, 51] mass [15686, 26142, 40378] area 0.309 FILL
+/221.json 38 |others R 31 n [1, 1, 1, 1, 1, 1, 1] mass [777, 702, 777] area 0.006 
+/221.json 39 | R 17 n [2, 2, 6, 11] mass [5651, 25616, 62973] area 0.467 FILL
+/222.json 0 Found #5|object R 20 n [1, 1, 2, 1, 1, 1, 1] mass [705, 697, 671] area 0.005 
+/222.json 1 Found #8| R 20 n [1, 1, 2, 3, 1, 1, 1] mass [566, 590, 613] area 0.005 
+/222.json 2 Found #19| R 20 n [2, 1, 1, 1, 1, 1, 1] mass [541, 532, 543] area 0.003 
+/222.json 3 Found #29| R 20 n [2, 2, 1, 1, 1, 1, 1] mass [567, 568, 567] area 0.003 
+/222.json 4 Found #30| R 15 n [1, 1, 0] mass [1172, 966, 0] area 0.0 DEAD
+/222.json 5 Found #33| R 15 n [2, 1, 1, 0] mass [439, 360, 0] area 0.0 DEAD
+/222.json 6 |pattern R 14 n [3, 0] mass [572, 0] area 0.0 DEAD
+/222.json 7 Found #20| R 20 n [1, 3, 0] mass [947, 908, 0] area 0.0 DEAD
+/222.json 8 Found #35| R 15 n [1, 3, 1, 6, 11, 17, 28] mass [9541, 13897, 20948] area 0.149 GROW
+/223.json 0 *|from -k3 #94, batch 1, see R 20 n [1, 2, 2, 1, 1, 1, 1] mass [706, 680, 703] area 0.006 
+/223.json 1 |batch 2 R 20 n [1, 1, 1, 1, 0] mass [468, 228, 0] area 0.0 DEAD
+/223.json 2 *|batch 3 R 20 n [1, 0] mass [640, 0] area 0.0 DEAD
+/223.json 3 *| R 20 n [1, 1, 1, 1, 1, 1, 1] mass [273, 242, 261] area 0.002 
+/223.json 4 |batch 4 R 20 n [2, 4, 0] mass [615, 213, 0] area 0.0 DEAD
+/223.json 5 | R 20 n [1, 2, 3, 1, 2, 1, 2] mass [633, 605, 636] area 0.005 
+/223.json 6 | R 20 n [2, 1, 1, 1, 1, 1, 1] mass [540, 544, 542] area 0.003 
+/223.json 7 *| R 20 n [2, 1, 1, 1, 1, 1, 1] mass [725, 728, 694] area 0.006 
+/223.json 8 | R 20 n [1, 1, 1, 1, 1, 1, 1] mass [647, 665, 630] area 0.004 
+/223.json 9 | R 20 n [1, 1, 1, 1, 1, 1, 1] mass [644, 614, 654] area 0.004 
+/223.json 10 | R 20 n [1, 1, 1, 1, 1, 1, 1] mass [613, 655, 626] area 0.004 
+/223.json 11 *| R 20 n [1, 1, 1, 1, 2, 1, 2] mass [717, 705, 724] area 0.005 
+/223.json 12 | R 20 n [2, 1, 3, 4, 2, 5, 3] mass [266, 279, 264] area 0.003 
+/223.json 13 | R 20 n [2, 1, 4, 1, 1, 3, 6] mass [666, 664, 663] area 0.004 GROW
+/223.json 14 *| R 20 n [1, 4, 3, 3, 5, 5, 8] mass [1665, 2200, 2727] area 0.023 GROW
+/223.json 15 | R 20 n [2, 1, 3, 2, 2, 3, 3] mass [635, 631, 627] area 0.004 
+/223.json 16 *| R 20 n [1, 3, 5, 5, 9, 8, 9] mass [2306, 2807, 3522] area 0.026 GROW
+/223.json 17 *| R 20 n [1, 1, 1, 1, 1, 1, 1] mass [674, 776, 911] area 0.006 
+/223.json 18 *| R 20 n [1, 1, 1, 1, 1, 1, 1] mass [669, 664, 668] area 0.004 
+/223.json 19 | R 20 n [1, 2, 1, 1, 1, 1, 2] mass [662, 656, 654] area 0.004 
+/223.json 20 | R 20 n [2, 2, 1, 1, 1, 1, 6] mass [689, 737, 925] area 0.008 GROW
+/231.json 0 Found #16|stable stationary R 20 n [1, 1, 1, 1, 1, 1, 1] mass [1571, 1578, 1570] area 0.006 
+/231.json 1 Found #6| R 20 n [1, 2, 1, 1, 1, 1, 2] mass [1043, 1108, 1087] area 0.006 
+/231.json 2 Found #22| R 10 n [3, 3, 0] mass [881, 501, 0] area 0.0 DEAD
+/231.json 3 Found #39| R 20 n [1, 1, 0] mass [953, 886, 0] area 0.0 DEAD
+/231.json 4 Found #49| R 20 n [1, 2, 5, 2, 1, 1, 1] mass [778, 785, 876] area 0.005 
+/231.json 5 Found #50| R 20 n [1, 4, 7, 4, 4, 3, 2] mass [821, 829, 895] area 0.004 
+/231.json 6 Found #73| R 20 n [1, 2, 1, 1, 1, 1, 1] mass [932, 928, 931] area 0.005 
+/231.json 7 Found #82| R 20 n [15, 4, 5, 3, 4, 3, 3] mass [1096, 1086, 1063] area 0.006 
+/231.json 8 Found #4|nexus R 20 n [1, 2, 4, 12, 25, 31, 51] mass [12394, 30280, 58580] area 0.34 FILL
+/231.json 9 Found #11| R 20 n [2, 3, 1, 1, 1, 1, 1] mass [1902, 2542, 2237] area 0.012 
+/231.json 10 Found #31|wandering R 20 n [1, 1, 1, 1, 1, 1, 1] mass [793, 785, 804] area 0.003 
+/231.json 11 Found #34| R 20 n [1, 0] mass [910, 0] area 0.0 DEAD
+/231.json 12 Found #51| R 20 n [1, 1, 1, 1, 2, 1, 1] mass [1117, 1200, 1072] area 0.006 
+/231.json 13 Found #91| R 20 n [2, 0] mass [1015, 0] area 0.0 DEAD
+/231.json 14 Found #130| R 20 n [1, 0] mass [638, 0] area 0.0 DEAD
+/231.json 15 Found #9| R 20 n [3, 2, 2, 2, 1, 1, 1] mass [1147, 1145, 1301] area 0.007 
+/231.json 16 Found #53|nucleus R 20 n [2, 0] mass [1745, 0] area 0.0 DEAD
+/231.json 17 Found #19| R 20 n [1, 1, 1, 1, 1, 1, 1] mass [1116, 1003, 1138] area 0.006 
+/231.json 18 Found #28| R 20 n [1, 0] mass [970, 0] area 0.0 DEAD
+/231.json 19 | R 20 n [2, 6, 3, 1, 12, 7, 6] mass [28257, 20889, 15057] area 0.099 
+/231.json 20 Found #41| R 20 n [2, 0] mass [875, 0] area 0.0 DEAD
+/231.json 21 Found #43| R 20 n [1, 1, 1, 0] mass [851, 1023, 0] area 0.0 DEAD
+/231.json 22 |wandering in expanding back R 20 n [2, 12, 12, 10, 5, 7, 11] mass [1281, 1213, 1299] area 0.01 
+/232.json 0 XUC1U9|**+- R 24 n [1, 3, 1, 1, 1] mass [34597, 49376, 77469] area 0.327 FILL
+/232.json 1 NW584T| R 18 n [1, 0] mass [875, 0] area 0.0 DEAD
+/232.json 2 LZEGEW| R 28 n [2, 3, 2, 1, 1, 1, 1] mass [3929, 3683, 3345] area 0.011 
+/232.json 3 Q9PLB0| R 12 n [1, 1, 2, 1, 3, 3] mass [23746, 34612, 46867] area 0.271 FILL
+/232.json 4 FDGN1A|* R 35 n [2, 3, 4, 4, 4, 6, 4] mass [4355, 4301, 4323] area 0.022 
+/232.json 5 JYNXPY| R 12 n [1, 2, 2, 1, 1, 1, 1] mass [740, 737, 694] area 0.004 
+/232.json 6 4MTXE9| R 13 n [2, 2, 1, 1, 1] mass [9864, 29303, 58515] area 0.4 FILL
+/232.json 7 A6N0ZY|* R 30 n [3, 2, 2, 2, 2, 2, 0] mass [2842, 2853, 0] area 0.0 DEAD
+/232.json 8 WP6P8F| R 31 n [1, 0] mass [9129, 0] area 0.0 DEAD
+/232.json 9 ADLW3U|**M R 14 n [2, 2, 2, 2, 2, 2, 2] mass [1171, 1157, 1155] area 0.005 
+/232.json 10 XXTRXP|* R 31 n [1, 1, 3, 3, 2, 2, 4] mass [18818, 21306, 23690] area 0.128 GROW
+/232.json 11 KQ9WEF| R 11 n [1, 2, 2] mass [7661, 24357, 50446] area 0.279 FILL
+/232.json 12 QNW3L9| R 10 n [48, 51, 49, 54, 44, 47, 50] mass [2553, 2430, 2442] area 0.014 
+/232.json 13 55JL48| R 20 n [1, 1, 2, 1, 2] mass [23663, 35316, 47356] area 0.278 FILL
+/232.json 14 4BVLD8| R 17 n [1, 1, 1, 1, 1, 1, 1] mass [6602, 6673, 6691] area 0.033 
+/232.json 15 B4FNVE| R 23 n [1, 0] mass [2066, 0] area 0.0 DEAD
+/232.json 16 J0A8XG| R 12 n [3, 2, 2, 1, 3, 3] mass [21887, 34517, 49644] area 0.273 FILL
+/232.json 17 72CX8Y| R 13 n [1, 1, 1, 1, 1, 0] mass [653, 586, 0] area 0.0 DEAD
+/232.json 18 9SY5Z9|* R 29 n [1, 1, 0] mass [3471, 2007, 0] area 0.0 DEAD
+/232.json 19 XG7AQ2| R 22 n [2, 1, 1, 2, 4, 3, 2] mass [15612, 17317, 19906] area 0.102 
+/232.json 20 VXBP8L| R 19 n [1, 1, 2, 1, 2, 2, 2] mass [6297, 6318, 6356] area 0.035 
+/232.json 21 GWLXB0| R 35 n [1, 1, 1, 1, 1, 1, 1] mass [3129, 3180, 3147] area 0.018 
+/232.json 22 MMD764|* R 31 n [1, 2, 2, 2, 1, 1, 1] mass [5865, 5889, 5935] area 0.028 
+/232.json 23 XZSYQL| R 13 n [4, 5, 7, 3, 7, 4, 5] mass [1099, 1118, 1151] area 0.006 
+/232.json 24 57VR23| R 20 n [1, 0] mass [3536, 0] area 0.0 DEAD
+/232.json 25 KASH6M|* R 30 n [1, 1, 1, 1, 1, 1, 1] mass [4382, 4373, 4358] area 0.026 
+/232.json 26 VN3FPZ| R 16 n [3, 1, 1, 1, 3, 2, 4] mass [8222, 8577, 9023] area 0.06 GROW
+/232.json 27 1CP6RL| R 15 n [2, 3, 1, 2, 4, 2, 3] mass [883, 896, 924] area 0.004 
+/232.json 28 0A0D13|* R 19 n [1, 3, 1, 2, 1, 0] mass [2780, 1871, 0] area 0.0 DEAD
+/232.json 29 G2CAPK| R 14 n [1, 3, 1, 1, 1, 1, 1] mass [4365, 4491, 4618] area 0.026 
+/232.json 30 DG3QJC| R 24 n [1, 1, 1, 0] mass [5425, 3701, 0] area 0.0 DEAD
+/232.json 31 64JGGG| R 12 n [2, 1, 1, 1] mass [15626, 31038, 51368] area 0.327 FILL
+/232.json 32 SCET78| R 16 n [1, 1, 2, 2] mass [23181, 40169, 65413] area 0.267 FILL
+/232.json 33 ZXF6U4|* R 18 n [4, 1, 2, 3, 1, 1, 2] mass [12691, 16226, 19871] area 0.105 
+/232.json 34 81AECD|**+- R 15 n [1, 1, 3, 3, 4, 7, 12] mass [27049, 32801, 45269] area 0.256 FILL
+/232.json 35 2UAE80|* R 26 n [3, 1, 2, 1, 1, 5, 4] mass [14751, 15122, 15275] area 0.091 GROW
+/232.json 36 AKEEJ8| R 24 n [7, 10, 12, 12, 11, 16, 10] mass [12964, 14565, 16733] area 0.105 
+/232.json 37 H4S421|* R 12 n [3, 2, 2, 2, 1, 1, 1] mass [567, 575, 560] area 0.004 
+/232.json 38 M7S399| R 13 n [1, 2, 0] mass [3198, 1791, 0] area 0.0 DEAD
+/232.json 39 Q5JK35|* R 24 n [2, 2, 2, 2, 2, 2, 2] mass [6011, 6051, 6098] area 0.032 
+/232.json 40 MXBS86|* R 28 n [1, 1, 1, 1, 1, 1, 1] mass [2373, 2373, 2375] area 0.011 
+/232.json 41 F5QG25|*+- R 20 n [1, 1, 1, 0] mass [2605, 1747, 0] area 0.0 DEAD
+/232.json 42 2EQCTS| R 20 n [8, 8, 7, 8, 10, 12, 10] mass [2874, 2834, 2870] area 0.016 
+/232.json 43 6SS68V| R 11 n [2, 1, 1, 1, 1, 1, 1] mass [347, 329, 299] area 0.001 
+/232.json 44 4VXPRV| R 18 n [1, 0] mass [1693, 0] area 0.0 DEAD
+/232.json 45 ZXJRF3| R 17 n [1, 1, 1, 1, 1, 1, 1] mass [454, 450, 447] area 0.002 
+/232.json 46 X05XVY|* R 19 n [1, 1, 1, 1, 1, 1, 1] mass [1315, 1313, 1301] area 0.008 
+/232.json 47 C8PZ88|* R 33 n [5, 1, 3, 4, 2, 3, 1] mass [4497, 4248, 4239] area 0.022 
+/232.json 48 WJJNX6| R 16 n [1, 1, 1, 0] mass [3461, 1478, 0] area 0.0 DEAD
+/232.json 49 Q4QYUK| R 17 n [6, 12, 18, 14, 21, 16, 20] mass [17341, 20151, 24939] area 0.131 GROW
+/232.json 50 5120B4| R 19 n [1, 1, 1, 1, 1, 1, 2] mass [15155, 18440, 22764] area 0.112 
+/232.json 51 6Y9G00| R 23 n [1, 1, 1, 1, 1, 1, 1] mass [18123, 20655, 23084] area 0.145 
+/232.json 52 J98G1K|* R 29 n [5, 5, 3, 4, 1, 1, 1] mass [18313, 44760, 84349] area 0.407 FILL
+/232.json 53 FH8HNS| R 18 n [1, 1, 2, 4, 7, 17, 19] mass [11080, 17449, 21553] area 0.134 GROW
+/232.json 54 NKB5HF| R 22 n [3, 1, 1, 1, 1, 1, 1] mass [11619, 13052, 14532] area 0.1 
+/232.json 55 092D75| R 15 n [1, 2, 2, 2, 1, 1, 1] mass [4262, 5583, 5545] area 0.036 
+/232.json 56 BXQ298| R 21 n [1, 1, 1, 0] mass [2190, 2869, 0] area 0.0 DEAD
+/232.json 57 AKN782| R 33 n [1, 1, 1, 2, 8, 5] mass [27553, 36462, 56496] area 0.373 FILL
+/232.json 58 83UFX6| R 21 n [3, 0] mass [6649, 0] area 0.0 DEAD
+/232.json 59 6T390S| R 13 n [4, 1, 3, 2, 2, 1, 1] mass [1879, 1326, 960] area 0.006 
+/232.json 60 EV2RR1|* R 37 n [2, 2, 1, 1, 1, 1, 1] mass [3502, 3505, 3503] area 0.019 
+/232.json 61 NH9J24| R 17 n [2, 2, 1, 1, 2, 2, 1] mass [3662, 3824, 4537] area 0.024 
+/232.json 62 GUGD5Z| R 17 n [1, 2, 1, 1, 1, 1, 1] mass [7331, 6845, 6861] area 0.033 
+/241.json 0 SAVPPS| R 18 n [1, 0] mass [1570, 0] area 0.0 DEAD
+/241.json 1 SJW39C| R 10 n [2, 2, 1, 1, 1, 1, 1] mass [1596, 1075, 1573] area 0.007 
+/241.json 2 QWELCT| R 31 n [1, 1, 1, 1, 1, 1, 1] mass [11773, 11537, 11191] area 0.056 
+/241.json 3 5HCDA4|**+- R 15 n [3, 4, 3, 4, 5, 5, 3] mass [7188, 8936, 14587] area 0.077 
+/241.json 4 VFTNX9| R 11 n [5, 4, 4, 5, 4, 3, 3] mass [4606, 4764, 5025] area 0.028 
+/241.json 5 1LRBX4| R 20 n [3, 2, 5] mass [11699, 35715, 81675] area 0.362 FILL
+/241.json 6 N4Y1UG| R 20 n [3, 1, 0] mass [4726, 2284, 0] area 0.0 DEAD
+/241.json 7 0E7Y7R|* R 32 n [1, 2, 2, 1, 1, 2, 2] mass [7012, 7241, 7358] area 0.029 
+/241.json 8 FKLURP|* R 33 n [1, 1, 1, 1, 1, 1, 1] mass [7403, 8462, 10823] area 0.047 
+/241.json 9 RAYKT8| R 21 n [1, 1, 1, 1, 1, 1, 1] mass [7907, 7912, 7884] area 0.035 
+/241.json 10 S9UM4Q| R 36 n [1, 2, 1, 3, 1, 1] mass [21737, 32819, 46002] area 0.263 FILL
+/241.json 11 3N075R| R 30 n [1, 0] mass [8764, 0] area 0.0 DEAD
+/241.json 12 9EC6NJ| R 12 n [1, 1, 1, 1] mass [18210, 35871, 64104] area 0.326 FILL
+/241.json 13 RRPA5H| R 14 n [1, 1, 1, 1, 2] mass [41624, 53767, 77995] area 0.335 FILL
+/241.json 14 HCSMH4| R 39 n [1, 1, 1, 1, 1, 1, 1] mass [3660, 3673, 3684] area 0.019 
+/241.json 15 Y4FNUK| R 15 n [5, 3, 2, 2, 2, 2, 3] mass [1784, 1701, 1745] area 0.008 
+/241.json 16 UHMLV7| R 11 n [1, 1, 1, 1, 1] mass [30902, 44947, 60281] area 0.279 FILL
+/241.json 17 FR0VYM|* R 16 n [1, 1, 1, 1, 2, 1, 1] mass [25026, 30971, 37557] area 0.154 
+/241.json 18 VME9Q8| R 15 n [2, 1, 3, 1, 1, 1, 1] mass [6841, 7371, 7947] area 0.041 
+/241.json 19 1FVM8A| R 20 n [3, 1, 7, 6, 5, 4] mass [42322, 56834, 73003] area 0.261 FILL
+/241.json 20 WTPX5K| R 32 n [1, 1, 1, 1] mass [18744, 29508, 66687] area 0.264 FILL
+/241.json 21 LRRZUM| R 13 n [2, 4, 2, 4, 4, 1, 1] mass [3194, 3496, 3812] area 0.026 
+/241.json 22 D2HS5Y| R 18 n [3, 4, 1, 2, 5, 5, 3] mass [28198, 37771, 47691] area 0.289 FILL
+/241.json 23 M6F5R9| R 16 n [1, 1, 1, 1, 1, 1] mass [35622, 55424, 79091] area 0.338 FILL
+/241.json 24 ED7B8A| R 29 n [1, 2, 4, 3, 3, 2, 4] mass [6073, 6149, 6128] area 0.028 
+/241.json 25 V5SPJ5| R 11 n [1, 0] mass [247, 0] area 0.0 DEAD
+/241.json 26 18EHBW| R 14 n [3, 3, 1, 1, 1, 1, 1] mass [13027, 16478, 18040] area 0.083 
+/241.json 27 ZZ8NRB|* R 22 n [1, 1, 1, 1, 1, 1, 1] mass [5475, 4926, 4883] area 0.021 
+/241.json 28 KNXJ66| R 16 n [1, 1, 1, 1, 1, 1, 1] mass [2823, 2675, 1237] area 0.007 
+/241.json 29 6QL1XM| R 10 n [1, 1, 1, 1, 2, 1, 2] mass [534, 496, 1413] area 0.009 
+/241.json 30 34RG06| R 29 n [1, 1, 1, 1, 2, 1, 1] mass [15547, 16540, 17370] area 0.067 
+/241.json 31 V6LSTW| R 13 n [1, 1, 1, 1, 1, 1] mass [42195, 55217, 70081] area 0.279 FILL
+/241.json 32 DC04X1| R 19 n [1, 0] mass [3942, 0] area 0.0 DEAD
+/241.json 33 XEB3JR| R 19 n [4, 1, 1, 1, 3, 3, 9] mass [26892, 33689, 40936] area 0.217 GROW
+/241.json 34 M84G9N| R 26 n [1, 1, 0] mass [16131, 15115, 0] area 0.0 DEAD
+/241.json 35 SCW4JF| R 18 n [1, 0] mass [2606, 0] area 0.0 DEAD
+/241.json 36 CTGHT4| R 11 n [5, 1, 0] mass [2168, 292, 0] area 0.0 DEAD
+/241.json 37 ARJLMM|*- R 19 n [1, 1, 0] mass [5104, 7005, 0] area 0.0 DEAD
+/241.json 38 ARJLMM|**+- R 19 n [1, 2, 3, 3, 2, 5, 14] mass [25044, 39674, 41804] area 0.219 GROW
+/241.json 39 56X6RC| R 10 n [2, 1, 0] mass [937, 244, 0] area 0.0 DEAD
+/241.json 40 75DH5Z| R 22 n [1, 2, 1, 1, 1, 2, 2] mass [14610, 16440, 18732] area 0.088 
+/241.json 41 2V7CDC| R 16 n [1, 1, 1, 2, 2, 4, 7] mass [10652, 13874, 17642] area 0.101 GROW
+/241.json 42 L772SH| R 20 n [4, 7, 7, 9, 5, 1, 2] mass [3591, 2345, 1935] area 0.01 
+/241.json 43 CVDL90| R 20 n [1, 1, 1, 1, 0] mass [1896, 3433, 0] area 0.0 DEAD
+/241.json 44 N3RGK7| R 15 n [2, 4, 4, 8, 8, 8, 6] mass [18455, 20714, 23525] area 0.113 
+/241.json 45 5JNBCU|**+- R 13 n [1, 1, 1, 3] mass [20845, 34659, 54364] area 0.305 FILL
+/241.json 46 MJSMWU| R 20 n [1, 4, 2, 1, 1, 2, 2] mass [4835, 6852, 7897] area 0.039 
+/241.json 47 GWQTUP| R 14 n [1, 1, 1, 1, 1, 1, 1] mass [13627, 15096, 16739] area 0.089 
+/242.json 0 4QVF46| R 21 n [2, 5, 6, 3, 3, 2] mass [29579, 44843, 66016] area 0.282 FILL
+/242.json 1 BHM8WY| R 17 n [1, 2, 3, 1, 1, 1, 1] mass [13301, 14899, 21014] area 0.086 
+/242.json 2 V62PCQ| R 18 n [1, 1, 1, 1, 1, 1, 1] mass [5776, 5385, 4965] area 0.02 
+/242.json 3 PL8M62| R 31 n [1, 0] mass [5473, 0] area 0.0 DEAD
+/242.json 4 72BG45| R 22 n [1, 1, 2, 1, 1, 1, 1] mass [26011, 36983, 48924] area 0.222 
+/242.json 5 263FDH| R 15 n [1, 1, 1, 1, 1, 1, 1] mass [10909, 11126, 10999] area 0.052 
+/242.json 6 MMFJPJ| R 25 n [2, 1, 3, 4, 2, 6, 4] mass [21610, 13029, 91] area 0.002 
+/242.json 7 VXTZRK| R 32 n [1, 2, 1, 1, 1, 1] mass [26471, 49627, 84211] area 0.384 FILL
+/242.json 8 HDS1F3| R 26 n [1, 0] mass [13558, 0] area 0.0 DEAD
+/242.json 9 TCJHVG| R 14 n [2, 2, 4, 2, 7] mass [25446, 40389, 58060] area 0.279 FILL
+/242.json 10 5Z9BS2| R 18 n [1, 1, 0] mass [5385, 2853, 0] area 0.0 DEAD
+/242.json 11 SKXMNJ| R 13 n [1, 1, 0] mass [1639, 462, 0] area 0.0 DEAD
+/243.json 0 CQCYMP| R 32 n [1, 0] mass [7035, 0] area 0.0 DEAD
+/243.json 1 30Z7V6| R 26 n [1, 1, 1, 2, 1, 2, 1] mass [23400, 32462, 45063] area 0.197 
+/243.json 2 RGA31C| R 11 n [1, 1, 1, 1, 1, 1, 1] mass [13930, 15350, 15185] area 0.081 
+/243.json 3 6071SX| R 18 n [5, 5, 10, 7, 3, 4, 5] mass [23153, 28188, 31687] area 0.13 
+/243.json 4 5N4QJK| R 18 n [2, 2, 2, 1, 2, 3, 1] mass [2074, 2089, 2052] area 0.009 
+/243.json 5 KJSB0V| R 31 n [1, 1, 1, 1] mass [11552, 12083, 84972] area 0.281 FILL
